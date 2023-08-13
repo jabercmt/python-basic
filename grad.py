@@ -13,3 +13,5 @@ elif a >= 33 and a <= 39:
     print("D")
 elif a < 33:
     print("Fail")
+else:
+    print("Envalid no")
