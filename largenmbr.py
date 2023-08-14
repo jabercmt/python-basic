@@ -5,11 +5,13 @@ if(a > b):
 else:
     print("largest number is:", b)
 
-
+"""
 #largest
-#num1 = 20
-#num2 = 30
-#if num1 > num2:
-    #print(num1)
-#else
-    #print(num2)
+num1 = 20
+num2 = 30
+if num1 > num2:
+    print(num1)
+else
+    print(num2)
+
+"""
